@@ -1,0 +1,40 @@
+{
+    "data": [
+    {
+        "company_name": "Facebook",
+        "share_price": "$2500",
+        "percent_fluctuate": "$250 USD (2.33%)",
+        "rise_fall": "+",
+        "icon_url": "https://img.icons8.com/fluent/96/000000/facebook-new.png"
+    },
+    {
+        "company_name": "Google",
+        "share_price": "$2000",
+        "percent_fluctuate": "$250 USD (2.33%)",
+        "rise_fall": "-",
+        "icon_url": "https://img.icons8.com/fluent/50/000000/google-logo.png"
+    },
+    {
+        "company_name": "Apple",
+        "share_price": "$3000",
+        "percent_fluctuate": "$300 USD (3.33%)",
+        "rise_fall": "+",
+        "icon_url": "https://img.icons8.com/ios-filled/96/000000/mac-os.png"
+    },
+    {
+        "company_name": "Amazon",
+        "share_price": "$2000",
+        "percent_fluctuate": "$250 USD (1.33%)",
+        "rise_fall": "+",
+        "icon_url": "https://img.icons8.com/color/96/000000/amazon.png"
+    },
+    {
+        "company_name": "Microsoft",
+        "share_price": "$5000",
+        "percent_fluctuate": "$500 USD (4.33%)",
+        "rise_fall": "-",
+        "icon_url": "https://img.icons8.com/color/48/000000/microsoft.png"
+    }
+        ]
+
+}
